@@ -525,5 +525,6 @@ avList = {
 	"KSafeSvc.exe": "金山毒霸",
 	"KWatch.exe": "金山毒霸",
 	"gov_defence_service.exe": "云锁",
-	"gov_defence_daemon.exe": "云锁"
+	"gov_defence_daemon.exe": "云锁",
+	"smartscreen.exe": "Windows Defender"
 };
