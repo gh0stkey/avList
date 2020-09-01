@@ -546,5 +546,13 @@ avList = {
 	"fcag.exe": "McAfee",
 	"fcags.exe": "McAfee",
 	"fcagswd.exe": "McAfee",
-	"fcagate.exe": "McAfee"
+	"fcagate.exe": "McAfee",
+	"360EntClient.exe": "天擎EDR Agent",
+	"edr_sec_plan.exe": "深信服EDR Agent",
+	"edr_monitor.exe": "深信服EDR Agent",
+	"edr_agent.exe": "深信服EDR Agent",
+	"ESCCControl.exe": "启明星辰天珣EDR Agent",
+	"ESCC.exe": "启明星辰天珣EDR Agent",
+	"ESAV.exe": "启明星辰天珣EDR Agent",
+	"ESCCIndex.exe": "启明星辰天珣EDR Agent"
 };
