@@ -532,7 +532,6 @@ avList = {
 	"mcamnsvc.exe ": "McAfee",
 	"masvc.exe": "McAfee",
 	"mfemms.exe": "McAfee",
-	"mfevtps.exe": "McAfee",
 	"mctary.exe": "McAfee",
 	"mcshield.exe": "McAfee",
 	"mfewc.exe": "McAfee",
