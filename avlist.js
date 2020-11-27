@@ -532,7 +532,6 @@ avList = {
 	"mcamnsvc.exe ": "McAfee",
 	"masvc.exe": "McAfee",
 	"mfemms.exe": "McAfee",
-	"mfevtps.exe": "McAfee",
 	"mctary.exe": "McAfee",
 	"mcshield.exe": "McAfee",
 	"mfewc.exe": "McAfee",
@@ -554,5 +553,7 @@ avList = {
 	"ESCCControl.exe": "启明星辰天珣EDR Agent",
 	"ESCC.exe": "启明星辰天珣EDR Agent",
 	"ESAV.exe": "启明星辰天珣EDR Agent",
-	"ESCCIndex.exe": "启明星辰天珣EDR Agent"
+	"ESCCIndex.exe": "启明星辰天珣EDR Agent",
+	"AliYunDun.exe": "阿里云云盾",
+	"wdswfsafe.exe": "360杀毒-网盾"
 };
