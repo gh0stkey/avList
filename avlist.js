@@ -556,7 +556,6 @@ avList = {
 	"ESCCIndex.exe": "启明星辰天珣EDR Agent",
 	"AliYunDun.exe": "阿里云云盾",
 	"wdswfsafe.exe": "360杀毒-网盾",
-	"HipsDaemon.exe": "天融信终端防御",
 	"TopsecMain.exe": "天融信终端防御",
 	"TopsecTray.exe": "天融信终端防御"
 };
