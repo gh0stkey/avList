@@ -558,4 +558,10 @@ avList = {
 	"wdswfsafe.exe": "360杀毒-网盾",
 	"TopsecMain.exe": "天融信终端防御",
 	"TopsecTray.exe": "天融信终端防御"
+	"YDLive.exe":"腾讯云-云镜",
+	"YDService.exe":"腾讯云-云镜",
+	"TitanAgent.exe":"天眼云镜",
+	"TitanMonitor.exe":"天眼云镜",
+	"gse_win_daemon.exe":"蓝鲸Agent",
+	"gse_win_agent.exe":"蓝鲸Agent"
 };
