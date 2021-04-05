@@ -563,5 +563,6 @@ avList = {
 	"TitanAgent.exe":"天眼云镜",
 	"TitanMonitor.exe":"天眼云镜",
 	"gse_win_daemon.exe":"蓝鲸Agent",
-	"gse_win_agent.exe":"蓝鲸Agent"
+	"gse_win_agent.exe":"蓝鲸Agent",
+	"cloudwalker-agent.exe":"长亭牧云"
 };
