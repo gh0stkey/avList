@@ -557,7 +557,7 @@ avList = {
 	"AliYunDun.exe": "阿里云云盾",
 	"wdswfsafe.exe": "360杀毒-网盾",
 	"TopsecMain.exe": "天融信终端防御",
-	"TopsecTray.exe": "天融信终端防御"
+	"TopsecTray.exe": "天融信终端防御",
 	"YDLive.exe":"腾讯云-云镜",
 	"YDService.exe":"腾讯云-云镜",
 	"TitanAgent.exe":"天眼云镜",
