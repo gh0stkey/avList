@@ -567,5 +567,9 @@ avList = {
 	"QHActiveDefense.exe": "360 Total Security (360国际版)",
 	"QHWatchdog.exe": "360 Total Security (360国际版)",
 	"QHSafeTray.exe": "360 Total Security (360国际版)",
-	"QHSafeMain.exe": "360 Total Security (360国际版)"
+	"QHSafeMain.exe": "360 Total Security (360国际版)",
+	"JingYunMonSvr.exe": "景云防病毒",
+	"JingyunSdMainSvr.exe": "景云防病毒",
+	"JingyunSdSvr.exe": "景云防病毒",
+	"JingyunSdTray.exe": "景云防病毒"
 };
