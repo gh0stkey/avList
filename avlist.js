@@ -547,6 +547,8 @@ avList = {
 	"fcagswd.exe": "McAfee",
 	"fcagate.exe": "McAfee",
 	"360EntClient.exe": "天擎EDR Agent",
+	"QaxEntClient.exe": "天擎EDR Agent",
+	"QAXTray.exe": "天擎EDR Agent",
 	"edr_sec_plan.exe": "深信服EDR Agent",
 	"edr_monitor.exe": "深信服EDR Agent",
 	"edr_agent.exe": "深信服EDR Agent",
